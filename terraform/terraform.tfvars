@@ -1,4 +1,4 @@
 project_id = "xomnia-training"
-region = "europe-west1"
+region = "europe-west4"
 gke_num_nodes = 1
-service_account_key = "/home/daimonie/Repositories/hobby/secrets/service-account.json"
+service_account_key = "/home/daimonie/Repositories/hobby/gcp-open-webui/secrets/service-account.json"

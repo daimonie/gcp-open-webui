@@ -7,5 +7,5 @@ https://docs.openwebui.com/roadmap/
 To authenticate with Google Cloud using the service account, run the following command:
 
 ```
-gcloud auth activate-service-account --key-file=secrets/service-account.json
+export GOOGLE_APPLICATION_CREDENTIALS="/home/daimonie/Repositories/hobby/gcp-open-webui/secrets/service-account.json"
 ```
